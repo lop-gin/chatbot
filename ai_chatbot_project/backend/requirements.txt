@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-cloud-bigquery
+plotly
+langchain
+# langchain-openai # Removed
+google-generativeai
+chromadb
+sentence-transformers
